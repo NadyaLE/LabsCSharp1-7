@@ -1,0 +1,6 @@
+c:\users\ux\source\repos\Litke_04\Litke_04\bin\Debug\Litke_04.dll
+C:\Users\Ux\source\repos\Litke_04\Litke_04\obj\Debug\Litke_04.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_04\Litke_04\obj\Debug\Litke_04.csproj.CopyComplete
+C:\Users\Ux\source\repos\Litke_04\Litke_04\obj\Debug\Litke_04.dll
+C:\Users\Ux\source\repos\Litke_04\Litke_04\obj\Debug\Litke_04.pdb
+C:\Users\Ux\source\repos\Litke_04\Litke_04\bin\Debug\Litke_04.pdb

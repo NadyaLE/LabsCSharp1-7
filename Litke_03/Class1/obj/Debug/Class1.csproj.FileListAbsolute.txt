@@ -1,0 +1,12 @@
+C:\Users\Ux\source\repos\Solution1\Class1\bin\Debug\Class1.dll
+C:\Users\Ux\source\repos\Solution1\Class1\bin\Debug\Class1.pdb
+C:\Users\Ux\source\repos\Solution1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+C:\Users\Ux\source\repos\Solution1\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Solution1\Class1\obj\Debug\Class1.dll
+C:\Users\Ux\source\repos\Solution1\Class1\obj\Debug\Class1.pdb
+C:\Users\Ux\source\repos\Litke_03\Class1\bin\Debug\Class1.dll
+C:\Users\Ux\source\repos\Litke_03\Class1\bin\Debug\Class1.pdb
+C:\Users\Ux\source\repos\Litke_03\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+C:\Users\Ux\source\repos\Litke_03\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_03\Class1\obj\Debug\Class1.dll
+C:\Users\Ux\source\repos\Litke_03\Class1\obj\Debug\Class1.pdb

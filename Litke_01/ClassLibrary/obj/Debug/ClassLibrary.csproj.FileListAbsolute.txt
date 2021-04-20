@@ -1,0 +1,6 @@
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Ux\source\repos\Litke_01\ClassLibrary\obj\Debug\ClassLibrary.pdb

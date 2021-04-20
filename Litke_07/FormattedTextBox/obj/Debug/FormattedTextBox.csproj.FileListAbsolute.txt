@@ -1,0 +1,10 @@
+C:\Users\Ux\source\repos\Litke_07\FormattedTextBox\bin\Debug\FormattedTextBox.dll
+C:\Users\Ux\source\repos\Litke_07\FormattedTextBox\bin\Debug\FormattedTextBox.pdb
+C:\Users\Ux\source\repos\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.dll
+C:\Users\Ux\source\repos\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.pdb
+C:\Users\Ux\Desktop\ОС\Шарп\Litke_07\FormattedTextBox\bin\Debug\FormattedTextBox.dll
+C:\Users\Ux\Desktop\ОС\Шарп\Litke_07\FormattedTextBox\bin\Debug\FormattedTextBox.pdb
+C:\Users\Ux\Desktop\ОС\Шарп\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Ux\Desktop\ОС\Шарп\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.dll
+C:\Users\Ux\Desktop\ОС\Шарп\Litke_07\FormattedTextBox\obj\Debug\FormattedTextBox.pdb

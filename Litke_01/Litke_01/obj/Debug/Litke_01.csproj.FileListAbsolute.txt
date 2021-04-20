@@ -1,0 +1,10 @@
+C:\Users\Ux\source\repos\Litke_01\Litke_01\bin\Debug\Litke_01.exe.config
+C:\Users\Ux\source\repos\Litke_01\Litke_01\bin\Debug\Litke_01.exe
+C:\Users\Ux\source\repos\Litke_01\Litke_01\bin\Debug\Litke_01.pdb
+C:\Users\Ux\source\repos\Litke_01\Litke_01\bin\Debug\ClassLibrary.dll
+C:\Users\Ux\source\repos\Litke_01\Litke_01\bin\Debug\ClassLibrary.pdb
+C:\Users\Ux\source\repos\Litke_01\Litke_01\obj\Debug\Litke_01.csprojResolveAssemblyReference.cache
+C:\Users\Ux\source\repos\Litke_01\Litke_01\obj\Debug\Litke_01.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_01\Litke_01\obj\Debug\Litke_01.csproj.CopyComplete
+C:\Users\Ux\source\repos\Litke_01\Litke_01\obj\Debug\Litke_01.exe
+C:\Users\Ux\source\repos\Litke_01\Litke_01\obj\Debug\Litke_01.pdb

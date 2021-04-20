@@ -1,0 +1,9 @@
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.csprojResolveAssemblyReference.cache
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.Calculator.resources
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.Properties.Resources.resources
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.csproj.GenerateResource.cache
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.csproj.CoreCompileInputs.cache
+C:\Users\Ux\source\repos\Litke_05\Litke_05\bin\Debug\Litke_05.exe
+C:\Users\Ux\source\repos\Litke_05\Litke_05\bin\Debug\Litke_05.pdb
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.exe
+C:\Users\Ux\source\repos\Litke_05\Litke_05\obj\Debug\Litke_05.pdb
